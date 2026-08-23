@@ -51,4 +51,13 @@ This version is based on the original RollTracker addon and retains its original
 
 ## Images
 
-Screenshots coming soon.
+### Chat
+<img width="1086" height="362" alt="ChatGPT Image Aug 23, 2026, 11_32_41 AM" src="https://github.com/user-attachments/assets/221aa4ee-5ffe-4db7-b50a-88358e64e943" />
+
+### UI
+<img width="669" height="588" alt="ChatGPT Image Aug 23, 2026, 11_35_01 AM" src="https://github.com/user-attachments/assets/221e16e2-7e40-4b37-8fef-67a7880322f2" />
+
+
+
+
+
